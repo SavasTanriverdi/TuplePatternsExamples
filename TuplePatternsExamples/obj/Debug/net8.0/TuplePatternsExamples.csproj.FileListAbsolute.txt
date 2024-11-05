@@ -1,0 +1,14 @@
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\bin\Debug\net8.0\TuplePatternsExamples.exe
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\bin\Debug\net8.0\TuplePatternsExamples.deps.json
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\bin\Debug\net8.0\TuplePatternsExamples.runtimeconfig.json
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\bin\Debug\net8.0\TuplePatternsExamples.dll
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\bin\Debug\net8.0\TuplePatternsExamples.pdb
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\TuplePatternsExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\TuplePatternsExamples.AssemblyInfoInputs.cache
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\TuplePatternsExamples.AssemblyInfo.cs
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\TuplePatternsExamples.csproj.CoreCompileInputs.cache
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\TuplePatternsExamples.dll
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\refint\TuplePatternsExamples.dll
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\TuplePatternsExamples.pdb
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\TuplePatternsExamples.genruntimeconfig.cache
+C:\Users\savas\RiderProjects\TuplePatternsExamples\TuplePatternsExamples\obj\Debug\net8.0\ref\TuplePatternsExamples.dll

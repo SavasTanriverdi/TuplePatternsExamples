@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TuplePatternsExamples", "TuplePatternsExamples\TuplePatternsExamples.csproj", "{EA0DC294-FE5A-4BFF-9F1A-C5ED2DA0E24A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0DC294-FE5A-4BFF-9F1A-C5ED2DA0E24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0DC294-FE5A-4BFF-9F1A-C5ED2DA0E24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0DC294-FE5A-4BFF-9F1A-C5ED2DA0E24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0DC294-FE5A-4BFF-9F1A-C5ED2DA0E24A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
